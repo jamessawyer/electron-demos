@@ -1,0 +1,14 @@
+{
+  "name": "electron-examples",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "author": "shannon",
+  "description": "electron demo",
+  "devDependencies": {
+    "electron": "^19.0.4"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
